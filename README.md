@@ -7,6 +7,8 @@ Sound of AI is a mobile application designed to classify urban and heart sounds 
 __Pascal Classifying Heart Sounds Challenge Dataset__
 __Models:__ MobileNetV2, ResNet152V2 (with additional custom layers)
 __Classes:__ Murmur, Normal, Extrasystole, Artifact
+![Project Diagram](https://github.com/Frankenstein0708/SoundofAI/blob/main/Datasets/Dataset_A/soundofAIdata.png)
+
 
 ### __Mobile Application Features__
 __User Authentication:__ Email-password and phone number-SMS verification
