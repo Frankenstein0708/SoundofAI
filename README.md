@@ -47,7 +47,7 @@ RAM: 8GB
 ### HeartSound Classifier - Model Summary
 To enhance the classification capabilities, we extended the base architectures of ResNet152v2 and MobileNetV2 with additional custom layers. These layers were designed to:
 
-Improve Feature Extraction: By adding specialized layers, we were able to refine the feature extraction process, making the model more sensitive to subtle variations in the audio signals.
+Improve Feature Extraction: By adding specialized layers, we were able to refine the feature extraction process, making the model more sensitive to subtle variations in the audio signals.    
 __Increase Model Capacity:__ The extra layers help the models better capture complex patterns and nuances in the data.     
 __Tailored Output:__ Custom layers allow for fine-tuning of the output structure, optimizing the model's performance for the specific classification tasks.
 
